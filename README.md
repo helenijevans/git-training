@@ -1,3 +1,3 @@
 # Team Handbook
 
-Team name: TBC
+Team name: Salesforce Team
