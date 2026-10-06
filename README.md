@@ -1,3 +1,3 @@
 # Team Handbook
+Team name: Salesforce Team
 
-Team name: AI Institute
